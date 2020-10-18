@@ -4,7 +4,9 @@
     </a>
 </p>
 
+
 <h1 align="center"> Hacktoberfest 202 🎉</h1>
+
 
 <div align="center">
   
@@ -49,6 +51,8 @@ You may add any algorithm, a bot, etc.
     <td align="center"><a href="https://github.com/AkashDeepPatel"><img src="https://avatars1.githubusercontent.com/u/72429366?v=4" width="100px;" alt=""/><br /><sub><b>AkashDeepPatel</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=AkashDeepPatel" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/katie-ring"><img src="https://avatars0.githubusercontent.com/u/68781671?v=4" width="100px;" alt=""/><br /><sub><b>Katie Ring</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=katie-ring" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Surajpatel24-r"><img src="https://avatars1.githubusercontent.com/u/73026702?v=4" width="100px;" alt=""/><br /><sub><b>Surajpatel24-r</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=Surajpatel24-r" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yugantar99"><img src="https://avatars3.githubusercontent.com/u/73051921?v=4" width="100px;" alt=""/><br /><sub><b>yugantar99</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=yugantar99" title="Code">💻</a></td>
+    <td align="center"><a href="http://gamegear2d.xyz"><img src="https://avatars1.githubusercontent.com/u/73019477?v=4" width="100px;" alt=""/><br /><sub><b>prajai1803</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=prajai1803" title="Code">💻</a></td>
   </tr>
 </table>
 
