@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2020 🎉</h1>
+<h1 align="center"> Hacktoberfest 202 🎉</h1>
 
 <div align="center">
   
