@@ -53,6 +53,9 @@ You may add any algorithm, a bot, etc.
     <td align="center"><a href="http://gamegear2d.xyz"><img src="https://avatars1.githubusercontent.com/u/73019477?v=4" width="100px;" alt=""/><br /><sub><b>prajai1803</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=prajai1803" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tanmayanandx"><img src="https://avatars1.githubusercontent.com/u/54024121?v=4" width="100px;" alt=""/><br /><sub><b>tanmayanandx</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=tanmayanandx" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/pallavi0112"><img src="https://avatars1.githubusercontent.com/u/73059576?v=4" width="100px;" alt=""/><br /><sub><b>pallavi0112</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=pallavi0112" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
