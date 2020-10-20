@@ -59,6 +59,7 @@ You may add any algorithm, a bot, etc.
     <td align="center"><a href="https://github.com/IbadMukrom"><img src="https://avatars0.githubusercontent.com/u/56953749?v=4" width="100px;" alt=""/><br /><sub><b>Ibad Mukrom</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=IbadMukrom" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/freckles30"><img src="https://avatars1.githubusercontent.com/u/72254336?v=4" width="100px;" alt=""/><br /><sub><b>freckles30</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=freckles30" title="Code">💻</a></td>
     <td align="center"><a href="https://sarnav.me/"><img src="https://avatars2.githubusercontent.com/u/30243191?v=4" width="100px;" alt=""/><br /><sub><b>Sarnav Dutta</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=sarnav98" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/anneCoder1805"><img src="https://avatars3.githubusercontent.com/u/66819522?v=4" width="100px;" alt=""/><br /><sub><b>anneCoder1805</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=anneCoder1805" title="Code">💻</a></td>
   </tr>
 </table>
 

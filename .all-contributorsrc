@@ -94,7 +94,6 @@
       "contributions": [
         "code"
       ]
-
     },
     {
       "login": "freckles30",
@@ -113,7 +112,15 @@
       "contributions": [
         "code"
       ]
-
+    },
+    {
+      "login": "anneCoder1805",
+      "name": "anneCoder1805",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/66819522?v=4",
+      "profile": "https://github.com/anneCoder1805",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
