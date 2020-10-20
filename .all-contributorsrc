@@ -94,24 +94,6 @@
       "contributions": [
         "code"
       ]
-    },
-    {
-
-      "login": "freckles30",
-      "name": "freckles30",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/72254336?v=4",
-      "profile": "https://github.com/freckles30",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-            "login": "sarnav98",
-      "name": "Sarnav Dutta",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/30243191?v=4",
-      "profile": "https://sarnav.me/",
-      "contributions": [
-        "code"
     }
   ],
   "contributorsPerLine": 7,
