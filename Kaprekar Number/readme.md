@@ -1,4 +1,4 @@
-To check if an n-digit number k is a Kaprekar number or no, square it and add the right n digits to the left n or n-1 digits.
+To check if an n-digit number k is a Kaprekar number or not, square it and add the right n digits to the left n or n-1 digits.
 If the resultant sum is k, then k is called a Kaprekar number. 
 
 Examples:
