@@ -64,6 +64,7 @@ You may add any algorithm, a bot, etc.
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/pritindra"><img src="https://avatars1.githubusercontent.com/u/37242669?v=4" width="100px;" alt=""/><br /><sub><b>Pritindra</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=pritindra" title="Code">💻</a></td>
+    <td align="center"><a href="https://uravgkarthik.github.io"><img src="https://avatars0.githubusercontent.com/u/33371558?v=4" width="100px;" alt=""/><br /><sub><b>Karthik Ravishankar</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=uravgkarthik" title="Code">💻</a></td>
   </tr>
 </table>
 
